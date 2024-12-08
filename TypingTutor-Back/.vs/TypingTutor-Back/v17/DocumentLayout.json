@@ -1,26 +1,180 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF6213-AF74-40A4-B183-806E1205AF2B}|TypingTutor.Infrastructure\\TypingTutor.Infrastructure.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.infrastructure\\repository\\levelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFF6213-AF74-40A4-B183-806E1205AF2B}|TypingTutor.Infrastructure\\TypingTutor.Infrastructure.csproj|solutionrelative:typingtutor.infrastructure\\repository\\levelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF6213-AF74-40A4-B183-806E1205AF2B}|TypingTutor.Infrastructure\\TypingTutor.Infrastructure.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.infrastructure\\repository\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFF6213-AF74-40A4-B183-806E1205AF2B}|TypingTutor.Infrastructure\\TypingTutor.Infrastructure.csproj|solutionrelative:typingtutor.infrastructure\\repository\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF6213-AF74-40A4-B183-806E1205AF2B}|TypingTutor.Infrastructure\\TypingTutor.Infrastructure.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFF6213-AF74-40A4-B183-806E1205AF2B}|TypingTutor.Infrastructure\\TypingTutor.Infrastructure.csproj|solutionrelative:typingtutor.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF6213-AF74-40A4-B183-806E1205AF2B}|TypingTutor.Infrastructure\\TypingTutor.Infrastructure.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.infrastructure\\typingtutordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFF6213-AF74-40A4-B183-806E1205AF2B}|TypingTutor.Infrastructure\\TypingTutor.Infrastructure.csproj|solutionrelative:typingtutor.infrastructure\\typingtutordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.domain\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|solutionrelative:typingtutor.domain\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|solutionrelative:typingtutor.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.domain\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|solutionrelative:typingtutor.domain\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.domain\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|solutionrelative:typingtutor.domain\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|c:\\users\\besja\\onedrive\\desktop\\tema\\typingtutor-back\\typingtutor-back\\typingtutor.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD435AE-0D5B-437C-829A-310AECC51F61}|TypingTutor.Domain\\TypingTutor.Domain.csproj|solutionrelative:typingtutor.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 176,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 373,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "TypingTutor.Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:16:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\Lesson.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Domain\\Lesson.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\Lesson.cs",
+              "RelativeToolTip": "TypingTutor.Domain\\Lesson.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:21:47.427Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\Level.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Domain\\Level.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\Level.cs",
+              "RelativeToolTip": "TypingTutor.Domain\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:24:15.139Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 224,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 27,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "TypingTutor.Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:40:56.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Infrastructure\\Repository\\LevelRepository.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Infrastructure\\Repository\\LevelRepository.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Infrastructure\\Repository\\LevelRepository.cs",
+              "RelativeToolTip": "TypingTutor.Infrastructure\\Repository\\LevelRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:40:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Infrastructure\\Repository\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Infrastructure\\Repository\\LessonRepository.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Infrastructure\\Repository\\LessonRepository.cs",
+              "RelativeToolTip": "TypingTutor.Infrastructure\\Repository\\LessonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:40:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypingTutorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Infrastructure\\TypingTutorDbContext.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Infrastructure\\TypingTutorDbContext.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Infrastructure\\TypingTutorDbContext.cs",
+              "RelativeToolTip": "TypingTutor.Infrastructure\\TypingTutorDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:30:51.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\User.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Domain\\User.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\User.cs",
+              "RelativeToolTip": "TypingTutor.Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:29:50.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProgress.cs",
+              "DocumentMoniker": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\UserProgress.cs",
+              "RelativeDocumentMoniker": "TypingTutor.Domain\\UserProgress.cs",
+              "ToolTip": "C:\\Users\\besja\\OneDrive\\Desktop\\Tema\\TypingTutor-Back\\TypingTutor-Back\\TypingTutor.Domain\\UserProgress.cs",
+              "RelativeToolTip": "TypingTutor.Domain\\UserProgress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:29:37.471Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
