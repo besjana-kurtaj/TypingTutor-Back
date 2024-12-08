@@ -1,0 +1,6 @@
+C:\Users\besja\OneDrive\Desktop\Tema\TypingTutor-Back\TypingTutor-Back\TypingTutor.Infrastructure\obj\Debug\net8.0\TypingTutor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\besja\OneDrive\Desktop\Tema\TypingTutor-Back\TypingTutor-Back\TypingTutor.Infrastructure\obj\Debug\net8.0\TypingTutor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besja\OneDrive\Desktop\Tema\TypingTutor-Back\TypingTutor-Back\TypingTutor.Infrastructure\obj\Debug\net8.0\TypingTutor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\besja\OneDrive\Desktop\Tema\TypingTutor-Back\TypingTutor-Back\TypingTutor.Infrastructure\obj\Debug\net8.0\TypingTutor.Infrastructure.AssemblyInfo.cs
+C:\Users\besja\OneDrive\Desktop\Tema\TypingTutor-Back\TypingTutor-Back\TypingTutor.Infrastructure\obj\Debug\net8.0\TypingTutor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\besja\OneDrive\Desktop\Tema\TypingTutor-Back\TypingTutor-Back\TypingTutor.Infrastructure\obj\Debug\net8.0\TypingTutor.Infrastructure.sourcelink.json
